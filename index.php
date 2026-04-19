@@ -39,7 +39,7 @@ Get Started for Free
 </div>
 
 <div class="hero-image-wrapper">
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.Tvg0s04Vrhn4CMRMJ1lMbwHaE8%3Fpid%3DApi&f=1&ipt=f46477131323044a215b966634d01e4edba23db9471ada3903d519f9aab985cb" alt="QuickPOS Dashboard Interface" class="hero-mockup">
+<img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="QuickPOS Dashboard Interface" class="hero-mockup">
 </div>
 
 </div>
