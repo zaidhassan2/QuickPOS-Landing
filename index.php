@@ -8,9 +8,20 @@
 </head>
 <body>
 
-<header class="main-header">
-<div class="header-container">
-<div class="logo">Quick<span class="text-blue">POS</span></div>
+    <header class="main-header">
+        <div class="header-container">
+            <div class="logo">Quick<span class="text-blue">POS</span></div>
+
+            <nav class="nav-links">
+                <a href="#features">Features</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#contact">Contact</a>
+            </nav>
+        </div>
+    </header>
+
+    <section class="hero-section">
+        <div class="hero-container">
 
 <nav class="nav-links">
 <a href="#features">Features</a>
