@@ -17,8 +17,6 @@
                 <a href="#pricing">Pricing</a>
                 <a href="#contact">Contact</a>
             </nav>
-
-            <div class="header-cta"></div>
         </div>
     </header>
 
