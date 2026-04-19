@@ -8,20 +8,9 @@
 </head>
 <body>
 
-    <header class="main-header">
-        <div class="header-container">
-            <div class="logo">Quick<span class="text-blue">POS</span></div>
-
-            <nav class="nav-links">
-                <a href="#features">Features</a>
-                <a href="#pricing">Pricing</a>
-                <a href="#contact">Contact</a>
-            </nav>
-        </div>
-    </header>
-
-    <section class="hero-section">
-        <div class="hero-container">
+<header class="main-header">
+<div class="header-container">
+<div class="logo">Quick<span class="text-blue">POS</span></div>
 
 <nav class="nav-links">
 <a href="#features">Features</a>
@@ -40,9 +29,7 @@
 
 <div class="hero-content">
 <h1>The Last <span class="text-gradient">POS System</span> You'll Ever Need</h1>
-
 <p class="hero-subheadline">Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
-
 <a href="#contact" class="cta-button">
 Get Started for Free
 <span class="btn-arrow">&rarr;</span>
@@ -55,6 +42,34 @@ Get Started for Free
 
 </div>
 </section>
+
+<section id="features" class="features-section">
+<div class="container">
+<div class="section-header">
+<h2>Everything you need to run your store</h2>
+<p>Powerful features designed to save you time and increase your revenue.</p>
+</div>
+
+<div class="features-grid">
+<div class="feature-card">
+<div class="feature-icon">📦</div>
+<h3>Inventory Management</h3>
+<p>Track stock levels in real-time, automate reordering, and never run out of your best-selling products.</p>
+</div>
+<div class="feature-card">
+<div class="feature-icon">📊</div>
+<h3>Sales Analytics</h3>
+<p>Generate detailed reports on sales trends, employee performance, and peak hours with one click.</p>
+</div>
+<div class="feature-card">
+<div class="feature-icon">🔗</div>
+<h3>Easy Integration</h3>
+<p>Seamlessly connect with your favorite accounting software, payment gateways, and e-commerce platforms.</p>
+</div>
+</div>
+</div>
+</section>
+
 <section id="pricing" class="pricing-section">
 <div class="container">
 <div class="section-header">
@@ -99,5 +114,6 @@ Get Started for Free
 </div>
 </div>
 </section>
+
 </body>
 </html>
