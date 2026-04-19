@@ -12,11 +12,11 @@
 <div class="header-container">
 <div class="logo">Quick<span class="text-blue">POS</span></div>
 
-            <div class="hero-content">
-<h1>The Last <span class="text-gradient">POS System</span> You'll Ever Need</h1>
-<p>Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
-                <a href="#contact" class="cta-button">Get Started for Free</a>
-            </div>
+<nav class="nav-links">
+<a href="#features">Features</a>
+<a href="#pricing">Pricing</a>
+<a href="#contact">Contact</a>
+</nav>
 
 <div class="header-cta">
 <a href="#signup" class="header-cta-btn">Sign Up</a>
@@ -28,9 +28,14 @@
 <div class="hero-container">
 
 <div class="hero-content">
-<h1>The Last POS System You'll Ever Need</h1>
-<p>Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
-<a href="#contact" class="cta-button">Get Started for Free</a>
+<h1>The Last <span class="text-gradient">POS System</span> You'll Ever Need</h1>
+
+<p class="hero-subheadline">Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
+
+<a href="#contact" class="cta-button">
+Get Started for Free
+<span class="btn-arrow">&rarr;</span>
+</a>
 </div>
 
 <div class="hero-image-wrapper">
