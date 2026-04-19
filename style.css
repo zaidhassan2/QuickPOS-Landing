@@ -11,6 +11,7 @@ body {
     color: #1e293b;
     line-height: 1.6;
 }
+
 /* --- Header & Navigation Styles --- */
 .main-header {
     width: 100%;
@@ -55,6 +56,7 @@ body {
 .nav-links a:hover {
     color: #2563eb;
 }
+
 /* --- Hero Section Styles --- */
 .hero-section {
     width: 100%;

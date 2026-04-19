@@ -5,22 +5,22 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>QuickPOS - Modern Point of Sale System</title>
     <link rel="stylesheet" href="style.css">
-    <header class="main-header">
-    <div class="header-container">
-    <div class="logo">Quick<span class="text-blue">POS</span></div>
-
-    <nav class="nav-links">
-    <a href="#features">Features</a>
-    <a href="#pricing">Pricing</a>
-    <a href="#contact">Contact</a>
-    </nav>
-
-    <div class="header-cta">
-    </div>
-    </div>
-    </header>
 </head>
 <body>
+
+    <header class="main-header">
+        <div class="header-container">
+            <div class="logo">Quick<span class="text-blue">POS</span></div>
+
+            <nav class="nav-links">
+                <a href="#features">Features</a>
+                <a href="#pricing">Pricing</a>
+                <a href="#contact">Contact</a>
+            </nav>
+
+            <div class="header-cta"></div>
+        </div>
+    </header>
 
     <section class="hero-section">
         <div class="hero-container">
@@ -32,7 +32,7 @@
             </div>
 
             <div class="hero-image-wrapper">
-                <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%2Fid%2FOIP.Tvg0s04Vrhn4CMRMJ1lMbwHaE8%3Fpid%3DApi&f=1&ipt=f46477131323044a215b966634d01e4edba23db9471ada3903d519f9aab985cb" alt="QuickPOS Dashboard Interface" class="hero-mockup">
+                <img src="https://placehold.co/600x400/e2e8f0/475569?text=POS+Software+Dashboard" alt="QuickPOS Dashboard Interface" class="hero-mockup">
             </div>
 
         </div>
