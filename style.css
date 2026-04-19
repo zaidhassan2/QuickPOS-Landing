@@ -280,3 +280,23 @@ body {
 .pricing-btn.outline:hover {
     background-color: #f8fafc;
 }
+
+/* --- Contact Form Styles --- */
+.contact-section { padding: 100px 0; background-color: #ffffff; }
+.contact-form-wrapper { max-width: 600px; margin: 0 auto; background: #f8fafc; padding: 40px; border-radius: 12px; border: 1px solid #e2e8f0; }
+.form-group { margin-bottom: 20px; text-align: left; }
+.form-group label { display: block; margin-bottom: 8px; font-weight: 600; color: #0f172a; }
+.form-group input, .form-group textarea { width: 100%; padding: 12px; border: 1px solid #cbd5e1; border-radius: 6px; font-size: 1rem; }
+.form-group input:focus, .form-group textarea:focus { outline: none; border-color: #2563eb; box-shadow: 0 0 0 3px rgba(37,99,235,0.1); }
+.submit-btn { width: 100%; background-color: #2563eb; color: white; padding: 14px; border: none; border-radius: 6px; font-size: 1.1rem; font-weight: 600; cursor: pointer; transition: background 0.3s; }
+.submit-btn:hover { background-color: #1d4ed8; }
+
+/* --- Footer Styles --- */
+.main-footer { background-color: #0f172a; color: #f8fafc; padding: 60px 0 20px 0; }
+.footer-container { display: flex; justify-content: space-between; align-items: center; margin-bottom: 40px; flex-wrap: wrap; gap: 20px; }
+.footer-brand .logo { color: #ffffff; }
+.footer-brand p { color: #94a3b8; margin-top: 10px; max-width: 300px; }
+.footer-social { display: flex; gap: 20px; }
+.footer-social a { color: #94a3b8; text-decoration: none; transition: color 0.3s; }
+.footer-social a:hover { color: #ffffff; }
+.footer-bottom { text-align: center; padding-top: 20px; border-top: 1px solid #1e293b; color: #64748b; font-size: 0.9rem; }

@@ -99,5 +99,48 @@ Get Started for Free
 </div>
 </div>
 </section>
+
+<section id="contact" class="contact-section">
+<div class="container">
+<div class="section-header">
+<h2>Get in Touch</h2>
+<p>Have questions? Our team is here to help.</p>
+</div>
+<div class="contact-form-wrapper">
+<form action="process.php" method="POST" class="contact-form">
+<div class="form-group">
+<label for="name">Full Name</label>
+<input type="text" id="name" name="name" required>
+</div>
+<div class="form-group">
+<label for="email">Email Address</label>
+<input type="email" id="email" name="email" required>
+</div>
+<div class="form-group">
+<label for="message">Your Message</label>
+<textarea id="message" name="message" rows="5" required></textarea>
+</div>
+<button type="submit" class="submit-btn">Send Message</button>
+</form>
+</div>
+</div>
+</section>
+
+<footer class="main-footer">
+<div class="container footer-container">
+<div class="footer-brand">
+<div class="logo">Quick<span class="text-blue">POS</span></div>
+<p>The all-in-one solution designed for modern retailers.</p>
+</div>
+<div class="footer-social">
+<a href="#">Twitter</a>
+<a href="#">LinkedIn</a>
+<a href="#">Facebook</a>
+</div>
+</div>
+<div class="footer-bottom">
+<p>&copy; 2026 QuickPOS. All rights reserved.</p>
+</div>
+</footer>
 </body>
 </html>
