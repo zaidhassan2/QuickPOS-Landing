@@ -88,15 +88,29 @@ body {
     letter-spacing: -1px;
 }
 
-.hero-content p {
-    font-size: 1.15rem;
-    color: #475569;
-    margin-bottom: 35px;
+/* --- Task 17: Main Headline Premium Gradient --- */
+.text-gradient {
+    background: linear-gradient(90deg, #2563eb, #4f46e5);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    color: transparent;
 }
 
-/* Primary CTA Button */
+/* --- Task 18: Sub-headline Typography Polish --- */
+.hero-subheadline {
+    font-size: 1.25rem;
+    color: #64748b;
+    margin-bottom: 40px;
+    line-height: 1.8;
+    max-width: 90%;
+}
+
+/* --- Task 19: Primary CTA Button (Updated with Flexbox & Arrow) --- */
 .cta-button {
-    display: inline-block;
+    display: inline-flex; /* Changed to flex for arrow alignment */
+    align-items: center;
+    gap: 8px; /* Space between text and arrow */
     background-color: #2563eb;
     color: #ffffff;
     padding: 16px 32px;
@@ -108,13 +122,21 @@ body {
     box-shadow: 0 4px 6px -1px rgba(37, 99, 235, 0.2);
 }
 
+.btn-arrow {
+    transition: transform 0.3s ease; /* Smooth arrow movement */
+}
+
 .cta-button:hover {
     background-color: #1d4ed8;
     transform: translateY(-2px);
     box-shadow: 0 10px 15px -3px rgba(37, 99, 235, 0.3);
 }
 
-/* Image Wrapper */
+.cta-button:hover .btn-arrow {
+    transform: translateX(4px); /* Pushes the arrow right on hover */
+}
+
+/* --- Image Wrapper --- */
 .hero-image-wrapper {
     flex: 1;
     display: flex;
