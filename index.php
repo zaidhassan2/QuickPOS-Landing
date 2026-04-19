@@ -55,6 +55,49 @@ Get Started for Free
 
 </div>
 </section>
+<section id="pricing" class="pricing-section">
+<div class="container">
+<div class="section-header">
+<h2>Simple, transparent pricing</h2>
+<p>Choose the perfect plan for your business size.</p>
+</div>
 
+<div class="pricing-grid">
+<div class="pricing-card">
+<h3>Basic</h3>
+<div class="price"><span>$</span>29<span class="period">/mo</span></div>
+<ul class="features-list">
+<li>1 Register</li>
+<li>Basic Inventory</li>
+<li>Email Support</li>
+</ul>
+<a href="#signup" class="pricing-btn outline">Choose Basic</a>
+</div>
+
+<div class="pricing-card popular">
+<div class="badge">Most Popular</div>
+<h3>Pro</h3>
+<div class="price"><span>$</span>79<span class="period">/mo</span></div>
+<ul class="features-list">
+<li>Up to 5 Registers</li>
+<li>Advanced Analytics</li>
+<li>24/7 Priority Support</li>
+</ul>
+<a href="#signup" class="pricing-btn">Choose Pro</a>
+</div>
+
+<div class="pricing-card">
+<h3>Enterprise</h3>
+<div class="price"><span>$</span>199<span class="period">/mo</span></div>
+<ul class="features-list">
+<li>Unlimited Registers</li>
+<li>Custom Integrations</li>
+<li>Dedicated Account Manager</li>
+</ul>
+<a href="#contact" class="pricing-btn outline">Contact Us</a>
+</div>
+</div>
+</div>
+</section>
 </body>
 </html>
