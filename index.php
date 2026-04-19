@@ -12,8 +12,8 @@
         <div class="hero-container">
 
             <div class="hero-content">
-                <h1>The Last POS System You'll Ever Need</h1>
-                <p>Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
+<h1>The Last <span class="text-gradient">POS System</span> You'll Ever Need</h1>
+<p>Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
                 <a href="#contact" class="cta-button">Get Started for Free</a>
             </div>
 
