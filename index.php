@@ -8,27 +8,14 @@
 </head>
 <body>
 
-    <header class="main-header">
-        <div class="header-container">
-            <div class="logo">Quick<span class="text-blue">POS</span></div>
-
-            <nav class="nav-links">
-                <a href="#features">Features</a>
-                <a href="#pricing">Pricing</a>
-                <a href="#contact">Contact</a>
-            </nav>
-        </div>
-    </header>
-
-    <section class="hero-section">
-        <div class="hero-container">
-
+<header class="main-header">
+<div class="header-container">
+<div class="logo">Quick<span class="text-blue">POS</span></div>
 <nav class="nav-links">
 <a href="#features">Features</a>
 <a href="#pricing">Pricing</a>
 <a href="#contact">Contact</a>
 </nav>
-
 <div class="header-cta">
 <a href="#signup" class="header-cta-btn">Sign Up</a>
 </div>
@@ -37,31 +24,52 @@
 
 <section class="hero-section">
 <div class="hero-container">
-
 <div class="hero-content">
 <h1>The Last <span class="text-gradient">POS System</span> You'll Ever Need</h1>
-
 <p class="hero-subheadline">Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
-
 <a href="#contact" class="cta-button">
 Get Started for Free
 <span class="btn-arrow">&rarr;</span>
 </a>
 </div>
-
 <div class="hero-image-wrapper">
 <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="QuickPOS Dashboard Interface" class="hero-mockup">
 </div>
-
 </div>
 </section>
+
+<section id="features" class="features-section">
+<div class="container">
+<div class="section-header">
+<h2>Everything you need to run your store</h2>
+<p>Powerful features designed to save you time and increase your revenue.</p>
+</div>
+<div class="features-grid">
+<div class="feature-card">
+<div class="feature-icon">📦</div>
+<h3>Inventory Management</h3>
+<p>Track stock levels in real-time, automate reordering, and never run out of your best-selling products.</p>
+</div>
+<div class="feature-card">
+<div class="feature-icon">📊</div>
+<h3>Sales Analytics</h3>
+<p>Generate detailed reports on sales trends, employee performance, and peak hours with one click.</p>
+</div>
+<div class="feature-card">
+<div class="feature-icon">🔗</div>
+<h3>Easy Integration</h3>
+<p>Seamlessly connect with your favorite accounting software, payment gateways, and e-commerce platforms.</p>
+</div>
+</div>
+</div>
+</section>
+
 <section id="pricing" class="pricing-section">
 <div class="container">
 <div class="section-header">
 <h2>Simple, transparent pricing</h2>
 <p>Choose the perfect plan for your business size.</p>
 </div>
-
 <div class="pricing-grid">
 <div class="pricing-card">
 <h3>Basic</h3>
@@ -73,7 +81,6 @@ Get Started for Free
 </ul>
 <a href="#signup" class="pricing-btn outline">Choose Basic</a>
 </div>
-
 <div class="pricing-card popular">
 <div class="badge">Most Popular</div>
 <h3>Pro</h3>
@@ -85,7 +92,6 @@ Get Started for Free
 </ul>
 <a href="#signup" class="pricing-btn">Choose Pro</a>
 </div>
-
 <div class="pricing-card">
 <h3>Enterprise</h3>
 <div class="price"><span>$</span>199<span class="period">/mo</span></div>
@@ -142,5 +148,6 @@ Get Started for Free
 <p>&copy; 2026 QuickPOS. All rights reserved.</p>
 </div>
 </footer>
+
 </body>
 </html>
