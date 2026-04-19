@@ -12,11 +12,11 @@
 <div class="header-container">
 <div class="logo">Quick<span class="text-blue">POS</span></div>
 
-<nav class="nav-links">
-<a href="#features">Features</a>
-<a href="#pricing">Pricing</a>
-<a href="#contact">Contact</a>
-</nav>
+            <div class="hero-content">
+<h1>The Last <span class="text-gradient">POS System</span> You'll Ever Need</h1>
+<p>Streamline your sales, manage inventory effortlessly, and grow your business with QuickPOS. The all-in-one solution designed for modern retailers.</p>
+                <a href="#contact" class="cta-button">Get Started for Free</a>
+            </div>
 
 <div class="header-cta">
 <a href="#signup" class="header-cta-btn">Sign Up</a>
